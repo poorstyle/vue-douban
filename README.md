@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## 基于vue 的豆瓣 手机站
 
@@ -39,3 +40,7 @@ node server.js
 
 
 
+=======
+# vue-douban
+vue仿豆瓣
+>>>>>>> 92e933b66ed9251892b54a6dfd3a835ed1ec0215
